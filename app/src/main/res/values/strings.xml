@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoSegundoParcial</string>
+    <string name="txtTiendasCercanas">Tiendas cercanas</string>
+    <string name="txtMisListas">Mis listas</string>
+    <string name="txtSugerencias">Sugerencias</string>
+    <string name="txtAcercaNosotros">Acerca de nosotros</string>
+</resources>
